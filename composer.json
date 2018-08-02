@@ -1,6 +1,6 @@
 {
     "name": "begao/joker-smpp",
-    "description": "Smpp client php",
+    "description": "Smpp client",
     "homepage": "https://github.com/begao/joker-smpp",
     "authors": [
         {
