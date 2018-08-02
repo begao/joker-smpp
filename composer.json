@@ -1,6 +1,6 @@
 {
     "name": "begao/joker-smpp",
-    "description": "Smpp client",
+    "description": "Smpp php client",
     "homepage": "https://github.com/begao/joker-smpp",
     "authors": [
         {
@@ -17,7 +17,6 @@
         "psr-4": {
             "Joker\\": "src/"
         }
-    },
-    "minimum-stability": "stable"
+    }
 }
 
